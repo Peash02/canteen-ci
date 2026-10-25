@@ -10,6 +10,6 @@ def test_2():
 def test_3():
     assert calculate_total(400) == 378.00
 
-def zero_test():
+def test_zero():
     assert calculate_total(0) == 0
     
